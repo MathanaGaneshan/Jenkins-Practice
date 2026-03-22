@@ -1,7 +1,8 @@
 {
-  "name": "Jenkins-node-app",
-  "vesion":"1.0.0",
-  "scripts":{
-  "test": "echo \"No test specified\""
-}
+  "name": "jenkins-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building project",
+    "test": "echo Running tests"
+  }
 }

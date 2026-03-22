@@ -2,8 +2,6 @@
   "name": "Jenkins-node-app",
   "vesion":"1.0.0",
   "scripts":{
-    "scripts": {
   "test": "echo \"No test specified\""
 }
-  }
 }
